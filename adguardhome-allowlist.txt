@@ -187,3 +187,20 @@ portal.office.com
 www.office.com
 suite.office.net
 mlccdn.blob.core.windows.net
+
+# Netdata
+repository.netdata.cloud
+app.netdata.cloud
+api.netdata.cloud
+mqtt.netdata.cloud
+_http._tcp.repository.netdata.cloud
+
+# Domotic Services
+connect.iot.remotethermo.com
+www.ariston-net.remotethermo.com
+previous.hoymiles.com
+webservice.meteofrance.com
+digital.iservices.rte-france.com
+emea.bff.cariad.digital
+api.netatmo.com
+api.powercalc.nl
