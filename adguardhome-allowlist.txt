@@ -87,6 +87,7 @@ nexusrules.officeapps.live.com
 settings-win.data.microsoft.com
 v10.events.data.microsoft.com
 watson.telemetry.microsoft.com
+cdn.winget.microsoft.com
 
 # Microsoft Insider
 insideruser.microsoft.com
