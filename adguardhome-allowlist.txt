@@ -10,6 +10,9 @@
 
 ## Ubiquiti UniFi
 trace.svc.ui.com
+geo.svc.ui.com
+crash-report-service.svc.ui.com
+
 
 ## Mozilla Firefox
 tracking-protection.cdn.mozilla.net
