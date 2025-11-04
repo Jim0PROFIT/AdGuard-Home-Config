@@ -227,6 +227,10 @@ repositories.intel.com
 vpn.fr.scc.com
 apigw.iotbing.com
 candycrush-live.ext.p.midasplayer.cloud
+
+# Winamax
 api.winamax.fr
 s.winamax.fr
 www.winamax.fr
+sports-eu-west-3.winamax.fr
+wapi.winamax.fr
