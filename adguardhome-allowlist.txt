@@ -213,6 +213,13 @@ api.powercalc.nl
 rs3clients.timeusage.family.microsoft.com
 clientfd.family.microsoft.com
 
+# Work
+pixid-crm.my.site.com
+www.pixid-services.net
+pixid-crm.my.site.com
+vpn.fr.scc.com
+
+
 datarouter.ol.epicgames.com
 perf.store.on.epicgames.com
 
@@ -227,7 +234,6 @@ backend.prod.weward.fr
 codepush.weward.tech
 rsz.cdn-weward.app
 repositories.intel.com
-vpn.fr.scc.com
 apigw.iotbing.com
 candycrush-live.ext.p.midasplayer.cloud
 
