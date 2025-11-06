@@ -192,6 +192,12 @@ www.office.com
 suite.office.net
 mlccdn.blob.core.windows.net
 
+# Yahoo
+udc.yahoo.com
+geo.query.yahoo.com
+gpt.mail.yahoo.net
+
+
 # Netdata
 repository.netdata.cloud
 app.netdata.cloud
