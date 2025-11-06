@@ -192,6 +192,10 @@ www.office.com
 suite.office.net
 mlccdn.blob.core.windows.net
 
+# Google
+discover-pa.googleapis.com
+
+
 # Yahoo
 udc.yahoo.com
 geo.query.yahoo.com
