@@ -212,6 +212,8 @@ api.powercalc.nl
 # Perso
 rs3clients.timeusage.family.microsoft.com
 clientfd.family.microsoft.com
+www.hellowatt.fr
+
 
 # Work
 pixid-crm.my.site.com
