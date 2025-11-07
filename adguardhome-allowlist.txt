@@ -230,6 +230,8 @@ pixid-crm.my.site.com
 www.pixid-services.net
 pixid-crm.my.site.com
 vpn.fr.scc.com
+rsc.grouperandstad.fr
+www.grouperandstad.fr
 
 
 datarouter.ol.epicgames.com
