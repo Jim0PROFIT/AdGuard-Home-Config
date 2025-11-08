@@ -218,6 +218,8 @@ digital.iservices.rte-france.com
 emea.bff.cariad.digital
 api.netatmo.com
 api.powercalc.nl
+www.cre.fr
+
 
 # Perso
 rs3clients.timeusage.family.microsoft.com
