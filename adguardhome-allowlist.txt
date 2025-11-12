@@ -198,6 +198,10 @@ discover-pa.googleapis.com
 # Google Family
 kidsmanagement-pa.googleapis.com
 
+# NordVPN
+nordvpn.com
+downloads.nordcdn.com
+
 
 # Yahoo
 udc.yahoo.com
