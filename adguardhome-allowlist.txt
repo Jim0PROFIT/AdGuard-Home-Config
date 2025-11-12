@@ -201,6 +201,8 @@ kidsmanagement-pa.googleapis.com
 # NordVPN
 nordvpn.com
 downloads.nordcdn.com
+downloads77-windows.nordcdn.com
+
 
 
 # Yahoo
