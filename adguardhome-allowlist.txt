@@ -195,6 +195,9 @@ mlccdn.blob.core.windows.net
 # Google
 discover-pa.googleapis.com
 
+# Google Family
+kidsmanagement-pa.googleapis.com
+
 
 # Yahoo
 udc.yahoo.com
