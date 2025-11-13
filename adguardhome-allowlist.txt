@@ -202,6 +202,7 @@ kidsmanagement-pa.googleapis.com
 nordvpn.com
 downloads.nordcdn.com
 downloads77-windows.nordcdn.com
+pdp.napps-1.com
 
 
 
