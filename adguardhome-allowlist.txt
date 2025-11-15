@@ -199,6 +199,10 @@ searchnotifications-pa.googleapis.com
 # Google Family
 kidsmanagement-pa.googleapis.com
 
+# Adobe
+assets.adobedtm.com
+
+
 # NordVPN
 nordvpn.com
 downloads.nordcdn.com
