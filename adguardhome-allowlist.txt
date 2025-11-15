@@ -201,6 +201,7 @@ kidsmanagement-pa.googleapis.com
 
 # Adobe
 assets.adobedtm.com
+aepxlg.adobe.com
 
 
 # NordVPN
