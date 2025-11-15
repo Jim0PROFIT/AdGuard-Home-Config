@@ -203,6 +203,7 @@ kidsmanagement-pa.googleapis.com
 assets.adobedtm.com
 aepxlg.adobe.com
 federatedid-na1.services.adobe.com
+cc-api-data.adobe.io
 
 
 # NordVPN
