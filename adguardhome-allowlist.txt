@@ -8,6 +8,10 @@
 #
 #
 
+# DNS
+dns.quad9.net
+
+
 ## Ubiquiti UniFi
 trace.svc.ui.com
 geo.svc.ui.com
