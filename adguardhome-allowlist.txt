@@ -264,6 +264,7 @@ pixid-crm.my.site.com
 vpn.fr.scc.com
 rsc.grouperandstad.fr
 www.grouperandstad.fr
+sccfr.eu.junglemailpages.com
 
 
 datarouter.ol.epicgames.com
