@@ -86,6 +86,8 @@ s2.symcb.com
 s3.symcb.com 
 s4.symcb.com 
 s5.symcb.com 
+portal.manage.microsoft.com
+
 
 # Microsoft Windows Updates
 browser.pipe.aria.microsoft.com
