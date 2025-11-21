@@ -256,6 +256,7 @@ stats.tvtime.com
 api2.tozelabs.com
 dns.quad9.net
 ent77.seine-et-marne.fr
+ent.seine-et-marne.fr
 
 
 
