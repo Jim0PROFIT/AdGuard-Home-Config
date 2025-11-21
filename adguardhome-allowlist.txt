@@ -258,6 +258,12 @@ dns.quad9.net
 ent77.seine-et-marne.fr
 ent.seine-et-marne.fr
 mafreebox.freebox.fr
+api.oqee.net
+img1.oqee.net
+clients3.google.com
+embeddedassistant.googleapis.com
+crashlyticsreports-pa.googleapis.com
+firebaselogging.googleapis.com
 
 
 
