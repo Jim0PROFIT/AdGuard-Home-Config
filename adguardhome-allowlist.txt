@@ -265,6 +265,9 @@ embeddedassistant.googleapis.com
 crashlyticsreports-pa.googleapis.com
 firebaselogging.googleapis.com
 firebaseremoteconfig.googleapis.com
+fbx8lc-firmware.proxad.net
+telemetry.fbx-mgt.fr
+footprints-pa.googleapis.com
 
 
 
