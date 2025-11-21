@@ -264,6 +264,7 @@ clients3.google.com
 embeddedassistant.googleapis.com
 crashlyticsreports-pa.googleapis.com
 firebaselogging.googleapis.com
+firebaseremoteconfig.googleapis.com
 
 
 
