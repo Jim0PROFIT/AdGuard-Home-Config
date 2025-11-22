@@ -8,6 +8,29 @@
 #
 #
 
+# Perso
+rs3clients.timeusage.family.microsoft.com
+clientfd.family.microsoft.com
+www.hellowatt.fr
+events.tvtime.com
+stats.tvtime.com
+api2.tozelabs.com
+dns.quad9.net
+ent77.seine-et-marne.fr
+ent.seine-et-marne.fr
+mafreebox.freebox.fr
+api.oqee.net
+img1.oqee.net
+clients3.google.com
+embeddedassistant.googleapis.com
+crashlyticsreports-pa.googleapis.com
+firebaselogging.googleapis.com
+firebaseremoteconfig.googleapis.com
+fbx8lc-firmware.proxad.net
+telemetry.fbx-mgt.fr
+footprints-pa.googleapis.com
+voilatile-pa.googleapis.com
+
 # DNS
 dns.quad9.net
 
@@ -245,31 +268,6 @@ emea.bff.cariad.digital
 api.netatmo.com
 api.powercalc.nl
 www.cre.fr
-
-
-# Perso
-rs3clients.timeusage.family.microsoft.com
-clientfd.family.microsoft.com
-www.hellowatt.fr
-events.tvtime.com
-stats.tvtime.com
-api2.tozelabs.com
-dns.quad9.net
-ent77.seine-et-marne.fr
-ent.seine-et-marne.fr
-mafreebox.freebox.fr
-api.oqee.net
-img1.oqee.net
-clients3.google.com
-embeddedassistant.googleapis.com
-crashlyticsreports-pa.googleapis.com
-firebaselogging.googleapis.com
-firebaseremoteconfig.googleapis.com
-fbx8lc-firmware.proxad.net
-telemetry.fbx-mgt.fr
-footprints-pa.googleapis.com
-voilatile-pa.googleapis.com
-
 
 
 # Work
