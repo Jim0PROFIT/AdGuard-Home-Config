@@ -9,8 +9,6 @@
 #
 
 # Perso
-@@|gemini.google.comimportant @@||iquic$app=com.google.android.googlequicksearchbox,important 
-@@||$app=com.google.android.googlequicksearchbox,protocol=udp,port=443,important
 rs3clients.timeusage.family.microsoft.com
 clientfd.family.microsoft.com
 www.hellowatt.fr
