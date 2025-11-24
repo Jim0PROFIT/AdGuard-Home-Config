@@ -32,6 +32,7 @@ fbx8lc-firmware.proxad.net
 telemetry.fbx-mgt.fr
 footprints-pa.googleapis.com
 voilatile-pa.googleapis.com
+fr.mail.yahoo.com
 
 # DNS
 dns.quad9.net
