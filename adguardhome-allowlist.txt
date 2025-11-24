@@ -230,6 +230,7 @@ mlccdn.blob.core.windows.net
 # Google
 discover-pa.googleapis.com
 searchnotifications-pa.googleapis.com
+clients4.google.com
 
 # Google Family
 kidsmanagement-pa.googleapis.com
