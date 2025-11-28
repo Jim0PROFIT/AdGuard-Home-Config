@@ -34,7 +34,7 @@ fr.mail.yahoo.com
 api.insight.synology.com
 accounts.eu1.gigya.com
 mobileapi.365scores.com
-
+guce.yahoo.com
 
 # DNS
 dns.quad9.net
