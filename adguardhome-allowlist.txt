@@ -226,6 +226,8 @@ portal.office.com
 www.office.com
 suite.office.net
 mlccdn.blob.core.windows.net
+ecs.office.com
+
 
 # Google
 discover-pa.googleapis.com
