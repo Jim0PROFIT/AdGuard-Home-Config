@@ -36,6 +36,7 @@ accounts.eu1.gigya.com
 mobileapi.365scores.com
 guce.yahoo.com
 sdk.foursquare.com
+api.foursquare.com
 
 # DNS
 dns.quad9.net
