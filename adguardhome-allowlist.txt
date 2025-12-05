@@ -37,6 +37,7 @@ mobileapi.365scores.com
 guce.yahoo.com
 sdk.foursquare.com
 api.foursquare.com
+community.netdata.cloud
 
 # DNS
 dns.quad9.net
