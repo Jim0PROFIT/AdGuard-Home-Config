@@ -118,6 +118,8 @@ s3.symcb.com
 s4.symcb.com 
 s5.symcb.com 
 portal.manage.microsoft.com
+copilot.microsoft.com
+
 
 
 # Microsoft Windows Updates
