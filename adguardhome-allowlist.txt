@@ -43,7 +43,6 @@ gigya-prod-eu1.idconnect.renaultgroup.com
 adsl.free.fr
 
 
-
 # DNS
 dns.quad9.net
 
