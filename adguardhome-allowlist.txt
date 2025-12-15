@@ -40,6 +40,8 @@ api.foursquare.com
 community.netdata.cloud
 mobile-production.content-square.net
 gigya-prod-eu1.idconnect.renaultgroup.com
+adsl.free.fr
+
 
 
 # DNS
