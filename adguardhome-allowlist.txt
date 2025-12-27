@@ -283,6 +283,8 @@ app.netdata.cloud
 api.netdata.cloud
 mqtt.netdata.cloud
 _http._tcp.repository.netdata.cloud
+get.netdata.cloud
+
 
 # Domotic Services
 connect.iot.remotethermo.com
