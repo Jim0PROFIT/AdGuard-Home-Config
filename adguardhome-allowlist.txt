@@ -43,6 +43,8 @@ gigya-prod-eu1.idconnect.renaultgroup.com
 adsl.free.fr
 winscp.net
 learn.netdata.cloud
+app.foursquare.com
+
 
 
 
