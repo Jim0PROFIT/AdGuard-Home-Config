@@ -47,6 +47,7 @@ app.foursquare.com
 www.swarmapp.com
 a.nel.cloudflare.com
 gigya-prod-eu1.renaultgroup.com
+bam.boincstats.com
 
 
 
