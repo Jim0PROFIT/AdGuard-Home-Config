@@ -136,7 +136,8 @@ s5.symcb.com
 portal.manage.microsoft.com
 copilot.microsoft.com
 app.powerbi.com
-
+enterprise-eudb.activity.windows.com
+activity.windows.com
 
 
 # Microsoft Windows Updates
