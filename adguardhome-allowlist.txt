@@ -279,6 +279,8 @@ downloads77-windows.os4work.com
 
 # X Twitter
 api.x.com
+api.twitter.com
+
 
 
 
