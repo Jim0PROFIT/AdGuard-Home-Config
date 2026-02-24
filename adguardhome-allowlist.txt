@@ -48,7 +48,7 @@ www.swarmapp.com
 a.nel.cloudflare.com
 gigya-prod-eu1.renaultgroup.com
 secqt-fota-dn.samsungdm.com
-
+core.orb.net
 
 
 # BOINC
