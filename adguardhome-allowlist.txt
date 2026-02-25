@@ -18,6 +18,7 @@ api.insight.synology.com
 api.oqee.net
 api2.tozelabs.com
 app.foursquare.com
+api-wired-prod-1-euw1.wrd-aws.com
 clientfd.family.microsoft.com
 clients3.google.com
 community.netdata.cloud
