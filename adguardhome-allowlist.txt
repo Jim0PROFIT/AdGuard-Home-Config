@@ -51,7 +51,7 @@ voilatile-pa.googleapis.com
 winscp.net
 www.hellowatt.fr
 www.swarmapp.com
-
+fastly-measure.prod.orb.net
 
 # BOINC
 bam.boincstats.com
