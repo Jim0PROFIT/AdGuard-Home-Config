@@ -330,6 +330,8 @@ nonexistingsubdomxin6a1e1a4c.fr.scc.com
 
 # Work ENEDIS
 experience-enedis.syfadis.com
+websso-gardian.myelectricnetwork.com
+so-ecampus.syfadis.com
 
 # EPIC
 datarouter.ol.epicgames.com
