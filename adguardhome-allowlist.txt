@@ -322,7 +322,7 @@ rsc.grouperandstad.fr
 www.grouperandstad.fr
 sccfr.eu.junglemailpages.com
 france.scc.com
-
+iscc.prod.intranet-inside.com
 
 
 datarouter.ol.epicgames.com
