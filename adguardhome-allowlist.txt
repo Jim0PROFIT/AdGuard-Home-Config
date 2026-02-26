@@ -53,6 +53,7 @@ www.hellowatt.fr
 www.swarmapp.com
 fastly-measure.prod.orb.net
 neapi.hoymiles.com
+v1.mqtt.orb.net
 
 # BOINC
 bam.boincstats.com
