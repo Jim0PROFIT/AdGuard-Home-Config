@@ -52,6 +52,7 @@ winscp.net
 www.hellowatt.fr
 www.swarmapp.com
 fastly-measure.prod.orb.net
+neapi.hoymiles.com
 
 # BOINC
 bam.boincstats.com
