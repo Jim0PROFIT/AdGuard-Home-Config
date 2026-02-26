@@ -328,7 +328,10 @@ france.scc.com
 iscc.prod.intranet-inside.com
 nonexistingsubdomxin6a1e1a4c.fr.scc.com
 
+# Work ENEDIS
+experience-enedis.syfadis.com
 
+# EPIC
 datarouter.ol.epicgames.com
 perf.store.on.epicgames.com
 
