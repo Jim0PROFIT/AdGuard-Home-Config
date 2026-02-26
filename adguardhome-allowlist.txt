@@ -54,6 +54,7 @@ www.swarmapp.com
 fastly-measure.prod.orb.net
 neapi.hoymiles.com
 v1.mqtt.orb.net
+downloads.citrix.com
 
 # BOINC
 bam.boincstats.com
