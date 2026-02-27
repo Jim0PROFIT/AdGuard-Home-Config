@@ -58,6 +58,7 @@ downloads.citrix.com
 voyage.aprr.fr
 www.fulli.com
 sso.aprr.fr
+www.franceinfo.fr
 
 
 # BOINC
