@@ -59,7 +59,7 @@ voyage.aprr.fr
 www.fulli.com
 sso.aprr.fr
 www.franceinfo.fr
-
+mqtt.easycharging-tech.com
 
 # BOINC
 bam.boincstats.com
