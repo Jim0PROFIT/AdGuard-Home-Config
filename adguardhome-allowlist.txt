@@ -56,6 +56,7 @@ neapi.hoymiles.com
 v1.mqtt.orb.net
 downloads.citrix.com
 voyage.aprr.fr
+www.fulli.com
 
 # BOINC
 bam.boincstats.com
