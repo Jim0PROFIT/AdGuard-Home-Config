@@ -55,6 +55,7 @@ fastly-measure.prod.orb.net
 neapi.hoymiles.com
 v1.mqtt.orb.net
 downloads.citrix.com
+voyage.aprr.fr
 
 # BOINC
 bam.boincstats.com
