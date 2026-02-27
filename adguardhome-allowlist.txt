@@ -57,6 +57,8 @@ v1.mqtt.orb.net
 downloads.citrix.com
 voyage.aprr.fr
 www.fulli.com
+sso.aprr.fr
+
 
 # BOINC
 bam.boincstats.com
