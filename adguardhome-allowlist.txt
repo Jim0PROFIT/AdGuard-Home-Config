@@ -290,6 +290,8 @@ downloads77-windows.nordcdn.com
 pdp.napps-1.com
 pdp.njtzzrvg0lwj3bsn.info
 downloads77-windows.os4work.com
+pdp.my1337jog.run
+
 
 # X Twitter
 api.x.com
