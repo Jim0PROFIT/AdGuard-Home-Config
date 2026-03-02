@@ -54,7 +54,7 @@ www.fulli.com
 sso.aprr.fr
 www.franceinfo.fr
 api-us-east-2.protect.glasswire.com
-
+admin.easycharging-tech.com
 
 # HomeLab
 updates.smlight.tech
