@@ -64,6 +64,7 @@ fastly-measure.prod.orb.net
 secqt-fota-dn.samsungdm.com
 learn.netdata.cloud
 api.insight.synology.com
+cdn.hellowatt.fr
 
 # BOINC
 bam.boincstats.com
