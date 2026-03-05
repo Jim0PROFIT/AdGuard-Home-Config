@@ -65,6 +65,7 @@ secqt-fota-dn.samsungdm.com
 learn.netdata.cloud
 api.insight.synology.com
 cdn.hellowatt.fr
+www.yeswehack.com
 
 # BOINC
 bam.boincstats.com
