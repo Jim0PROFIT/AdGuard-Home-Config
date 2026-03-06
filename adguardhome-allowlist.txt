@@ -268,7 +268,7 @@ www.office.com
 suite.office.net
 mlccdn.blob.core.windows.net
 ecs.office.com
-
+addin.insights.static.microsoft
 
 # Google
 discover-pa.googleapis.com
