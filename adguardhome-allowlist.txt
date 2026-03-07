@@ -56,6 +56,8 @@ www.franceinfo.fr
 api-us-east-2.protect.glasswire.com
 admin.easycharging-tech.com
 www.service-public.gouv.fr
+www.encheres-publiques.com
+
 
 # HomeLab
 updates.smlight.tech
