@@ -58,7 +58,9 @@ admin.easycharging-tech.com
 www.service-public.gouv.fr
 www.encheres-publiques.com
 ltv.services.canalplustech.pro
-*canalplustech.pro^
+*canalplustech.pro
+api.samsungconsent.com
+
 
 
 # HomeLab
