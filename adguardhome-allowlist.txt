@@ -57,6 +57,8 @@ api-us-east-2.protect.glasswire.com
 admin.easycharging-tech.com
 www.service-public.gouv.fr
 www.encheres-publiques.com
+ltv.services.canalplustech.pro
+*canalplustech.pro^
 
 
 # HomeLab
