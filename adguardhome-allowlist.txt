@@ -357,6 +357,7 @@ static.concursolutions.com
 experience-enedis.syfadis.com
 websso-gardian.myelectricnetwork.com
 so-ecampus.syfadis.com
+sso-ecampus.syfadis.com
 
 # EPIC
 datarouter.ol.epicgames.com
