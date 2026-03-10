@@ -62,6 +62,7 @@ ltv.services.canalplustech.pro
 api.samsungconsent.com
 forum.hacf.fr
 pass.canalplus.com
+||io-cplus.net^
 
 
 # HomeLab
