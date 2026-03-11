@@ -64,7 +64,7 @@ forum.hacf.fr
 pass.canalplus.com
 *.io-cplus.net^
 www.tiktok.com
-
+*.tiktokv.com
 
 # HomeLab
 updates.smlight.tech
