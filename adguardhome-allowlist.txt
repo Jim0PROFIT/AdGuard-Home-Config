@@ -65,6 +65,7 @@ pass.canalplus.com
 *.io-cplus.net^
 www.tiktok.com
 *.tiktokv.com
+fr.linkedin.com
 
 # HomeLab
 updates.smlight.tech
