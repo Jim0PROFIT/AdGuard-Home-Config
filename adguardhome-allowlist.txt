@@ -66,6 +66,9 @@ pass.canalplus.com
 www.tiktok.com
 *.tiktokv.com
 fr.linkedin.com
+api.eu.amazonalexa.com
+api.amazonalexa.com
+
 
 # HomeLab
 updates.smlight.tech
