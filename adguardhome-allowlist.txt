@@ -90,6 +90,7 @@ boincstats.com
 
 # DNS
 dns.quad9.net
+quad9.net
 
 
 ## Ubiquiti UniFi
