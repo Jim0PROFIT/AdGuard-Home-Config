@@ -90,6 +90,7 @@ boincstats.com
 
 
 # DNS
+||quad9.net^
 dns.quad9.net
 quad9.net
 
