@@ -81,6 +81,8 @@ learn.netdata.cloud
 api.insight.synology.com
 cdn.hellowatt.fr
 www.yeswehack.com
+apt.grafana.com
+_https._tcp.apt.grafana.com
 
 # BOINC
 bam.boincstats.com
