@@ -10,7 +10,7 @@ Objectif : corriger les faux positifs, débloquer certains services et garder un
 ## Contenu
 - **allowlist.txt** — Domaines autorisés.
 - **changelog.md** — Notes rapides sur les modifications.
-- **sources.md** — (optionnel) Références des listes externes.
+- **sources.md** — Références des listes externes.
 
 ## Utilisation
 Dans AdGuard Home → *Settings* → *DNS Allowlist*, ajouter :
@@ -35,7 +35,7 @@ Goal: fix false positives, unblock legitimate services, and keep a clean DNS con
 ## Contents
 - **allowlist.txt** — Allowed domains.
 - **changelog.md** — Quick notes on changes.
-- **sources.md** — (optional) External list references.
+- **sources.md** — External list references.
 
 ## Usage
 In AdGuard Home → *Settings* → *DNS Allowlist*, add:
