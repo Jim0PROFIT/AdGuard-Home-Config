@@ -22,7 +22,6 @@ clients3.google.com
 community.netdata.cloud
 core.orb.net
 crashlyticsreports-pa.googleapis.com
-dns.quad9.net
 embeddedassistant.googleapis.com
 ent.seine-et-marne.fr
 ent77.seine-et-marne.fr
@@ -67,7 +66,6 @@ www.tiktok.com
 fr.linkedin.com
 api.eu.amazonalexa.com
 api.amazonalexa.com
-v1.mqtt.orb.net
 
 
 # HomeLab
@@ -357,7 +355,6 @@ www.cre.fr
 # Work SCC
 pixid-crm.my.site.com
 www.pixid-services.net
-pixid-crm.my.site.com
 vpn.fr.scc.com
 rsc.grouperandstad.fr
 www.grouperandstad.fr
