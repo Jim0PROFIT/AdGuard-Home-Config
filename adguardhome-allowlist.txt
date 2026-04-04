@@ -288,6 +288,8 @@ suite.office.net
 mlccdn.blob.core.windows.net
 ecs.office.com
 addin.insights.static.microsoft
+licensing.m365.svc.cloud.microsoft
+
 
 # Google
 discover-pa.googleapis.com
