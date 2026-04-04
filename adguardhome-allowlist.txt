@@ -95,7 +95,23 @@ dns.quad9.net
 quad9.net
 quad9.net
 
-
+! Whitelist Google Location Sharing
+! Version: 2026-04-04
+||maps.googleapis.com^
+||clients1.google.com^
+||clients2.google.com^
+||clients3.google.com^
+||clients4.google.com^
+||maps.gstatic.com^
+||khms0.google.com^
+||khms1.google.com^
+||khm0.googleapis.com^
+||khm1.googleapis.com^
+||khms0.googleapis.com^
+||khms1.googleapis.com^
+||ggpht.com^
+||android.clients.google.com^
+||location.sandbox.googleapis.com^
 
 ## Ubiquiti UniFi
 trace.svc.ui.com
