@@ -93,7 +93,8 @@ boincstats.com
 ||quad9.net^
 dns.quad9.net
 quad9.net
-quad9.net
+dnscrypt.info
+
 
 ! Whitelist Google Location Sharing
 ! Version: 2026-04-04
