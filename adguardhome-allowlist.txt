@@ -87,6 +87,7 @@ grafana.com
 bam.boincstats.com
 wuprop.statseb.fr
 boincstats.com
+fr.boincstats.com
 
 
 # DNS
