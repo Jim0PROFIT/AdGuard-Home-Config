@@ -198,6 +198,7 @@ enterprise-eudb.activity.windows.com
 activity.windows.com
 
 
+
 # Microsoft Windows Updates
 browser.pipe.aria.microsoft.com
 mobile.pipe.aria.microsoft.com
@@ -209,6 +210,8 @@ cdn.winget.microsoft.com
 
 # Microsoft Insider
 insideruser.microsoft.com
+insider.windows.com
+
 
 # O365
 outlook.office.com
