@@ -67,6 +67,8 @@ fr.linkedin.com
 api.eu.amazonalexa.com
 api.amazonalexa.com
 alexa.amazon.fr
+
+# Piracy
 french-tv.lol
 ww1.french-tv.lol
 
