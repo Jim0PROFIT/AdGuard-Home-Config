@@ -31,6 +31,7 @@ mobile-production.content-square.net
 rs3clients.timeusage.family.microsoft.com
 sdk.foursquare.com
 stats.tvtime.com
+events.tvtime.com
 telemetry.fbx-mgt.fr
 voilatile-pa.googleapis.com
 winscp.net
