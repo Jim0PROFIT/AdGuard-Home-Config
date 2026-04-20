@@ -15,9 +15,3 @@
 ||ggpht.com^
 ||android.clients.google.com^
 ||location.sandbox.googleapis.com^
-
-## Ubiquiti UniFi
-trace.svc.ui.com
-geo.svc.ui.com
-crash-report-service.svc.ui.com
-
