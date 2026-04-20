@@ -12,3 +12,7 @@ prod.telemetry.ros.rockstargames.com
 
 ## Epic Game Store
 tracking.epicgames.com
+
+# EPIC
+datarouter.ol.epicgames.com
+perf.store.on.epicgames.com
