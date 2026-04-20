@@ -9,3 +9,12 @@ france.scc.com
 iscc.prod.intranet-inside.com
 nonexistingsubdomxin6a1e1a4c.fr.scc.com
 static.concursolutions.com
+
+# Work ENEDIS
+experience-enedis.syfadis.com
+websso-gardian.myelectricnetwork.com
+so-ecampus.syfadis.com
+sso-ecampus.syfadis.com
+proxywebsso-gardian.myelectricnetwork.com
+||myelectricnetwork.com^
+
