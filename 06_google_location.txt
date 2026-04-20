@@ -21,13 +21,3 @@ trace.svc.ui.com
 geo.svc.ui.com
 crash-report-service.svc.ui.com
 
-## Mozilla Firefox
-tracking-protection.cdn.mozilla.net
-
-## Canon Printer Firmware Updates
-gdlp01.c-wss.com
-
-## Dropbox
-dl.dropboxusercontent.com
-ns1.dropbox.com
-ns2.dropbox.com
