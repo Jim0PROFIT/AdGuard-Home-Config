@@ -1,7 +1,0 @@
-# Work ENEDIS
-experience-enedis.syfadis.com
-websso-gardian.myelectricnetwork.com
-so-ecampus.syfadis.com
-sso-ecampus.syfadis.com
-proxywebsso-gardian.myelectricnetwork.com
-||myelectricnetwork.com^
