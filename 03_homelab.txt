@@ -1,0 +1,13 @@
+# HomeLab
+updates.smlight.tech
+mqtt.easycharging-tech.com
+v1.mqtt.orb.net
+fastly-measure.prod.orb.net
+secqt-fota-dn.samsungdm.com
+learn.netdata.cloud
+api.insight.synology.com
+cdn.hellowatt.fr
+www.yeswehack.com
+apt.grafana.com
+_https._tcp.apt.grafana.com
+grafana.com

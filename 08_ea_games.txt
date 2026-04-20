@@ -1,0 +1,14 @@
+## EA Games
+# https://answers.ea.com/t5/Bug-Reports/EA-app-Malfunctioning-With-Pi-Hole-AdGuard-On-Network/m-p/13747810#M51645
+# https://www.reddit.com/r/pihole/comments/11rd337/comment/l5a6oke/
+sdk.split.io
+pin-river.data.ea.com
+checkout.ea.com
+rtm.tnt-ea.com
+beacons4.gvt2.com
+
+## Rockstar Games
+prod.telemetry.ros.rockstargames.com
+
+## Epic Game Store
+tracking.epicgames.com

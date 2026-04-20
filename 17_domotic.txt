@@ -1,0 +1,10 @@
+# Domotic Services
+connect.iot.remotethermo.com
+www.ariston-net.remotethermo.com
+previous.hoymiles.com
+webservice.meteofrance.com
+digital.iservices.rte-france.com
+emea.bff.cariad.digital
+api.netatmo.com
+api.powercalc.nl
+www.cre.fr

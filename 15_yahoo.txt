@@ -1,0 +1,4 @@
+# Yahoo
+udc.yahoo.com
+geo.query.yahoo.com
+gpt.mail.yahoo.net

@@ -1,0 +1,6 @@
+# Winamax
+api.winamax.fr
+s.winamax.fr
+www.winamax.fr
+sports-eu-west-3.winamax.fr
+wapi.winamax.fr

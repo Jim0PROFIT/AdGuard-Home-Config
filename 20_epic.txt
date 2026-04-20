@@ -1,0 +1,3 @@
+# EPIC
+datarouter.ol.epicgames.com
+perf.store.on.epicgames.com

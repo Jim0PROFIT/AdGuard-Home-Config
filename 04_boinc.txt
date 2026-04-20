@@ -1,0 +1,6 @@
+# BOINC
+bam.boincstats.com
+wuprop.statseb.fr
+boincstats.com
+fr.boincstats.com
+www.boincstats.com
