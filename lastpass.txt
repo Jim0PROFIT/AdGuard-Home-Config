@@ -1,0 +1,9 @@
+@@|accounts.lastpass.com^$important
+@@|auth.lastpass.com^$important
+@@|content.product.lastpass.com^$important
+@@|data.product.lastpass.com^$important
+@@|identity.lastpass.com^$important
+@@|lastpass.com^$important
+@@|loglogin.lastpass.com^$important
+@@|lp-push-server-*.lastpass.com^$important
+@@|pollserver.lastpass.com^$important
