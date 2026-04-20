@@ -26,9 +26,9 @@ Objectif : corriger les faux positifs, débloquer certains services et garder un
 | [14_x_twitter.txt](filters/14_x_twitter.txt) | X / Twitter | 2 |
 | [15_yahoo.txt](filters/15_yahoo.txt) | Yahoo | 3 |
 | [16_netdata.txt](filters/16_netdata.txt) | Netdata Cloud | 6 |
-| [17_domotic.txt](filters/17_domotic.txt) | Domotique (Netatmo, Hoymiles, Météo-France, RTE, Ariston…) | 9 |
-| [18_work_scc.txt](filters/18_work_scc.txt) | Travail — SCC / Randstad / Concur | 9 |
-| [19_work_enedis.txt](filters/19_work_enedis.txt) | Travail — ENEDIS / MyElectricNetwork | 6 |
+| [17_domotique.txt](filters/17_domotique.txt) | Domotique (Netatmo, Hoymiles, Météo-France, RTE, Ariston…) | 9 |
+| [18_work.txt](filters/18_work_scc.txt) | Travail — SCC / Randstad / Concur | 9 |
+| [19_xxxx](filters/19_xxxx) | xxxx — xxxx / xxxx | x |
 | [20_epic.txt](filters/20_epic.txt) | Epic Games (data router, perf store) | 2 |
 | [21_misc.txt](filters/21_misc.txt) | Divers (Microsoft Azure, Weward, Intel, Hoymiles, Candy Crush…) | 13 |
 | [22_winamax.txt](filters/22_winamax.txt) | Winamax | 5 |
@@ -87,7 +87,7 @@ Goal: fix false positives, unblock legitimate services, and keep a clean DNS con
 | [16_netdata.txt](filters/16_netdata.txt) | Netdata Cloud | 6 |
 | [17_domotic.txt](filters/17_domotic.txt) | Home automation (Netatmo, Hoymiles, Météo-France, RTE, Ariston…) | 9 |
 | [18_work_scc.txt](filters/18_work_scc.txt) | Work — SCC / Randstad / Concur | 9 |
-| [19_work_enedis.txt](filters/19_work_enedis.txt) | Work — ENEDIS / MyElectricNetwork | 6 |
+| [19_xxxx](filters/19_xxxx) | xxxx — xxxx / xxxx | x |
 | [20_epic.txt](filters/20_epic.txt) | Epic Games (data router, perf store) | 2 |
 | [21_misc.txt](filters/21_misc.txt) | Misc (Microsoft Azure, Weward, Intel, Hoymiles, Candy Crush…) | 13 |
 | [22_winamax.txt](filters/22_winamax.txt) | Winamax | 5 |
