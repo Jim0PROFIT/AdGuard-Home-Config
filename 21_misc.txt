@@ -3,7 +3,6 @@ disc601.prod.do.dsp.mp.microsoft.com
 euro03.azure-devices.net
 array601.prod.do.dsp.mp.microsoft.com
 fef.msub03.manage.microsoft.com
-neapi.hoymiles.com
 remotedesktop-pa.googleapis.com
 device-api.urbanairship.com
 backend.prod.weward.fr
