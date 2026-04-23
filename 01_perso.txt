@@ -59,3 +59,4 @@ api.eu.amazonalexa.com
 api.amazonalexa.com
 alexa.amazon.fr
 archive.ph
+www.stats-degroupage.fr
