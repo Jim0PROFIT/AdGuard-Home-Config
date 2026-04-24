@@ -12,4 +12,5 @@ apt.grafana.com
 _https._tcp.apt.grafana.com
 grafana.com
 subscribe.insight.synology.com
+checkip.synology.com
 
