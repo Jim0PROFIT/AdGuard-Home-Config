@@ -60,3 +60,4 @@ api.amazonalexa.com
 alexa.amazon.fr
 archive.ph
 www.stats-degroupage.fr
+downloads.sourceforge.net
