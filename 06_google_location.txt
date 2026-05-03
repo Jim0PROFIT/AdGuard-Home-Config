@@ -15,3 +15,5 @@
 ||ggpht.com^
 ||android.clients.google.com^
 ||location.sandbox.googleapis.com^
+spot-pa.googleapis.com
+
