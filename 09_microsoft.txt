@@ -42,6 +42,8 @@ copilot.microsoft.com
 app.powerbi.com
 enterprise-eudb.activity.windows.com
 activity.windows.com
+pbivisuals.powerbi.com
+
 
 # Microsoft Windows Updates
 browser.pipe.aria.microsoft.com
