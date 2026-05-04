@@ -62,3 +62,4 @@ archive.ph
 www.stats-degroupage.fr
 downloads.sourceforge.net
 master.dl.sourceforge.net
+geo2.adobe.com
