@@ -43,6 +43,7 @@ app.powerbi.com
 enterprise-eudb.activity.windows.com
 activity.windows.com
 pbivisuals.powerbi.com
+||applicationinsights.azure.com^
 
 
 # Microsoft Windows Updates
