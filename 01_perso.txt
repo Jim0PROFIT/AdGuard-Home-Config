@@ -63,3 +63,5 @@ www.stats-degroupage.fr
 downloads.sourceforge.net
 master.dl.sourceforge.net
 geo2.adobe.com
+geo2.adobe.com
+translate-pa.googleapis.com
