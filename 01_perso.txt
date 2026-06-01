@@ -67,3 +67,4 @@ geo2.adobe.com
 translate-pa.googleapis.com
 remotedesktop.google.com
 argo.svcmot.com
+dlmgredg-vz.gtm.svcmot.com
