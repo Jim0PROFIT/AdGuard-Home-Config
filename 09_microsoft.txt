@@ -58,3 +58,6 @@ cdn.winget.microsoft.com
 # Microsoft Insider
 insideruser.microsoft.com
 insider.windows.com
+
+# Microsoft Teams
+insights.static.microsoft
