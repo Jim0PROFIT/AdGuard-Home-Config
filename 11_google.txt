@@ -5,3 +5,9 @@ clients4.google.com
 
 # Google Family
 kidsmanagement-pa.googleapis.com
+
+# Google Android
+geomobileservices-pa.googleapis.com
+proactivebackend-pa.googleapis.com
+dialercallinfolookup-pa.googleapis.com
+telephonyspamprotect-pa.googleapis.com
