@@ -64,5 +64,11 @@ downloads.sourceforge.net
 master.dl.sourceforge.net
 geo2.adobe.com
 geo2.adobe.com
-translate-pa.googleapis.com
-remotedesktop.google.com
+
+@@||update.ixsystems.com^$client='192.168.90.53'
+@@||download.truenas.com^$client='THE-BOSS-YOGA'
+@@||download.truenas.com^$important
+@@||download.sys.truenas.net^$important
+@@||update.truenas.com^$important
+
+@@||gigya-prod-eu1.renault.fr^$important

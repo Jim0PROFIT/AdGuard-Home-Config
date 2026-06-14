@@ -2,6 +2,12 @@
 discover-pa.googleapis.com
 searchnotifications-pa.googleapis.com
 clients4.google.com
+translate-pa.googleapis.com
+remotedesktop.google.com
+@@|gemini.google.comimportant 
+@@||iquic$app=com.google.android.googlequicksearchbox,important 
+@@||$app=com.google.android.googlequicksearchbox,protocol=udp,port=443,important
+@@||dns.google^$important
 
 # Google Family
 kidsmanagement-pa.googleapis.com

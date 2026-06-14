@@ -16,4 +16,6 @@
 ||android.clients.google.com^
 ||location.sandbox.googleapis.com^
 spot-pa.googleapis.com
+@@||timeline.google.com^$important
+@@||userlocation.googleapis.com^$important
 

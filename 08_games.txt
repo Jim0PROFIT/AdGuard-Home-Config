@@ -5,7 +5,6 @@ sdk.split.io
 pin-river.data.ea.com
 checkout.ea.com
 rtm.tnt-ea.com
-beacons4.gvt2.com
 
 ## Rockstar Games
 prod.telemetry.ros.rockstargames.com
@@ -16,3 +15,6 @@ tracking.epicgames.com
 # EPIC
 datarouter.ol.epicgames.com
 perf.store.on.epicgames.com
+
+# SONY
+@@||telemetry-mobile.api.playstation.com^$important
