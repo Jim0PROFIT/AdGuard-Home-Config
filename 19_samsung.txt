@@ -2,6 +2,7 @@
 ureca.samsungapps.com
 fr-odc.samsungapps.com
 @@||secakln-fota-dn.samsungdm.com^$important
+@@||seccfl-fota-dn.samsungdm.com^$important
 
 
 FLITR
