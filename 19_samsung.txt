@@ -1,6 +1,8 @@
 # Samsung
 ureca.samsungapps.com
 fr-odc.samsungapps.com
+@@||secakln-fota-dn.samsungdm.com^$important
+
 
 FLITR
 @@|account.samsung.com.gslb.cdnetworks.net^$important
