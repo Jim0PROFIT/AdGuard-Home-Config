@@ -18,4 +18,5 @@
 spot-pa.googleapis.com
 @@||timeline.google.com^$important
 @@||userlocation.googleapis.com^$important
+findmydevice-pa.googleapis.com
 
