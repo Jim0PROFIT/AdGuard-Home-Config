@@ -1,5 +1,5 @@
 ! Whitelist Google Location Sharing
-! Version: 2026-04-04
+! Version: 2026-11-11
 ||maps.googleapis.com^
 ||clients1.google.com^
 ||clients2.google.com^
@@ -19,4 +19,3 @@ spot-pa.googleapis.com
 @@||timeline.google.com^$important
 @@||userlocation.googleapis.com^$important
 findmydevice-pa.googleapis.com
-

@@ -2,7 +2,6 @@
 www.msftncsi.com
 www.msftconnecttest.com
 msftncsi.com
-www.msftncsi.com
 ipv6.msftncsi.com
 g.live.com
 outlook.office365.com
@@ -28,9 +27,10 @@ ecn.dev.virtualearth.net
 t0.ssl.ak.dynamic.tiles.virtualearth.net
 t0.ssl.ak.tiles.virtualearth.net
 s.gateway.messenger.live.com
-client-s.gateway.messenger.live.com
-ui.skype.com pricelist.skype.com
-apps.skype.com m.hotmail.com
+ui.skype.com
+pricelist.skype.com
+apps.skype.com
+m.hotmail.com
 sa.symcb.com
 s1.symcb.com
 s2.symcb.com
@@ -43,21 +43,19 @@ app.powerbi.com
 enterprise-eudb.activity.windows.com
 activity.windows.com
 pbivisuals.powerbi.com
-||applicationinsights.azure.com^
+@@||applicationinsights.azure.com^
 
-
-# Microsoft Windows Updates
+## Microsoft Windows Updates
 browser.pipe.aria.microsoft.com
 mobile.pipe.aria.microsoft.com
 nexusrules.officeapps.live.com
 settings-win.data.microsoft.com
-v10.events.data.microsoft.com
 watson.telemetry.microsoft.com
 cdn.winget.microsoft.com
 
-# Microsoft Insider
+## Microsoft Insider
 insideruser.microsoft.com
 insider.windows.com
 
-# Microsoft Teams
+## Microsoft Teams
 insights.static.microsoft

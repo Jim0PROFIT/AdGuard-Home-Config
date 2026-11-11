@@ -4,8 +4,7 @@ fr-odc.samsungapps.com
 @@||secakln-fota-dn.samsungdm.com^$important
 @@||seccfl-fota-dn.samsungdm.com^$important
 
-
-FLITR
+# Samsung service exceptions
 @@|account.samsung.com.gslb.cdnetworks.net^$important
 @@|account.samsung.com^$important
 @@|amg00056-vevotv-vevo90saunz-samsungau-n6a0d.amagi.tv^$important
