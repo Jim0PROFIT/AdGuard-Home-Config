@@ -2,13 +2,11 @@
 outlook.office.com
 *.outlook.office.com
 outlook.office365.com
-*.outlook.office.com
 smtp.office365.com
 r1.res.office365.com
 r3.res.office365.com
 r4.res.office365.com
 *.outlook.com
-*.outlook.office.com
 attachments.office.net
 *.protection.outlook.com
 *.mail.protection.outlook.com
@@ -42,9 +40,7 @@ amp.azure.net
 compass-ssl.microsoft.com
 *.tenor.com
 *.skype.com
-ajax.aspnetcdn.com
 r3.res.outlook.com
-spoprod-a.akamaihd.net
 *.api.microsoftstream.com
 *.notification.api.microsoftstream.com
 api.microsoftstream.com
@@ -93,7 +89,6 @@ home.office.com
 portal.office.com
 www.office.com
 suite.office.net
-mlccdn.blob.core.windows.net
 ecs.office.com
 addin.insights.static.microsoft
 licensing.m365.svc.cloud.microsoft
