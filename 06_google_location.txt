@@ -1,22 +1,22 @@
 ! Whitelist Google Location Sharing
-! Version: 2026-04-04
-||maps.googleapis.com^
-||clients1.google.com^
-||clients2.google.com^
-||clients3.google.com^
-||clients4.google.com^
-||maps.gstatic.com^
-||khms0.google.com^
-||khms1.google.com^
-||khm0.googleapis.com^
-||khm1.googleapis.com^
-||khms0.googleapis.com^
-||khms1.googleapis.com^
-||ggpht.com^
-||android.clients.google.com^
-||location.sandbox.googleapis.com^
-spot-pa.googleapis.com
+! Version: 2026-11-11
+! Allow rules (not block rules).
+@@||maps.googleapis.com^
+@@||clients1.google.com^
+@@||clients2.google.com^
+@@||clients3.google.com^
+@@||clients4.google.com^
+@@||maps.gstatic.com^
+@@||khms0.google.com^
+@@||khms1.google.com^
+@@||khm0.googleapis.com^
+@@||khm1.googleapis.com^
+@@||khms0.googleapis.com^
+@@||khms1.googleapis.com^
+@@||ggpht.com^
+@@||android.clients.google.com^
+@@||location.sandbox.googleapis.com^
+@@||spot-pa.googleapis.com^
 @@||timeline.google.com^$important
 @@||userlocation.googleapis.com^$important
-findmydevice-pa.googleapis.com
-
+@@||findmydevice-pa.googleapis.com^
