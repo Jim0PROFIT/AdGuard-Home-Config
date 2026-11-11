@@ -5,9 +5,10 @@
 @@||translate-pa.googleapis.com^
 @@||remotedesktop.google.com^
 @@||gemini.google.com^$important
-@@||iquic^$app=com.google.android.googlequicksearchbox,important
-@@||*^$app=com.google.android.googlequicksearchbox,protocol=udp,port=443,important
 @@||dns.google^$important
+
+# Note: AdGuard Home DNS filtering does not support the $app modifier.
+# For device-specific exceptions, use the $client modifier with a known client.
 
 # Google Family
 @@||kidsmanagement-pa.googleapis.com^
